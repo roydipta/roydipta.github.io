@@ -14,8 +14,9 @@
     margin-bottom: 0%;
 }
 
-#education p1{
-    /* margin-top: 0%; */
+#education p{
+    margin-top: 0%;
+    margin-bottom: 0%;
     font-size: smaller;
 }
 
@@ -31,13 +32,26 @@
     border-style: groove;
 }
 
-#subheader > h2{
+#eduheader > h2{
     text-align: center;
     margin: 5px auto;
     margin-bottom: 0;
     border-style: groove;
 }
 
+#proheader > h2{
+    text-align: center;
+    margin: 5px auto;
+    margin-bottom: 0;
+    border-style: groove;
+}
+
+#skillheader > h2{
+    text-align: center;
+    margin: 5px auto;
+    margin-bottom: 0;
+    border-style: groove;
+}
 
 .dates{
     font-family: 'Courier New', Courier, monospace;
